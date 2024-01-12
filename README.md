@@ -11,4 +11,4 @@ This project attempt to apply RAG method to improve the QA robot's response.
 #### Result
 > Demo:
 
-<img src="./Demo.png" width="50%" height="50%"/>
+<img src="./Demo.png" width="80%" height="80%"/>
